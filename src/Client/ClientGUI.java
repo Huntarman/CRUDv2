@@ -21,7 +21,7 @@ public class ClientGUI extends JFrame {
         panel.add(productName);
         productName.setColumns(10);
 
-        JButton btnSendReturn = new JButton("Senf");
+        JButton btnSendReturn = new JButton("Send");
         btnSendReturn.setBounds(275, 9, 101, 21);
         panel.add(btnSendReturn);
 
